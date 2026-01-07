@@ -5,8 +5,9 @@ This directory contains the Jupyter notebooks for the EuBIC 2025 Winter School.
 ## Notebooks
 
 - `00_welcome.ipynb` - Introduction and environment setup verification
-
-Additional workshop notebooks will be added here during the winter school.
+- `EUBIC_Task1_Peaks.ipynb` - Task 1: Peaks analysis
+- `EUBIC_Task2_ID.ipynb` - Task 2: Identification
+- `EUBIC_Task3_Quant.ipynb` - Task 3: Quantification
 
 ## Running Notebooks
 
