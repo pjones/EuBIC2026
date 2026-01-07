@@ -30,10 +30,9 @@ No build, test, or lint configuration exists - this is purely educational notebo
 
 ### Notebook Structure
 The notebooks in `notebooks/` follow a sequential learning path:
-1. **00_welcome.ipynb** - Environment setup and verification
-2. **EUBIC_Task1_Peaks.ipynb** - Protein digestion, MS1 visualization, isotope patterns, TIC
-3. **EUBIC_Task2_ID.ipynb** - Peptide database search, fragment spectrum generation, alignment, scoring
-4. **EUBIC_Task3_Quant.ipynb** - Feature detection (Biosaur2), ID mapping, interactive visualization
+1. **EUBIC_Task1_Peaks.ipynb** - Protein digestion, MS1 visualization, isotope patterns, TIC
+2. **EUBIC_Task2_ID.ipynb** - Peptide database search, fragment spectrum generation, alignment, scoring
+3. **EUBIC_Task3_Quant.ipynb** - Feature detection (Biosaur2), ID mapping, interactive visualization
 
 ### Core Pattern
 All notebooks follow the standard PyOpenMS workflow:
