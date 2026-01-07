@@ -1,6 +1,6 @@
 # Notebooks
 
-This directory contains the Jupyter notebooks for the EuBIC 2025 Winter School.
+This directory contains the Jupyter notebooks for the EuBIC 2026 Winter School.
 
 ## Notebooks
 

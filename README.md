@@ -1,6 +1,6 @@
-# EuBIC2025 Winter School
+# EuBIC2026 Winter School
 
-This repository contains Jupyter notebooks for the EuBIC 2025 Winter School.
+This repository contains Jupyter notebooks for the EuBIC 2026 Winter School.
 
 ## Setup
 

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Educational Jupyter notebook repository for the EuBIC (European Bioinformatics Community) 2025 Winter School. Teaches proteomics data analysis workflows using mass spectrometry data processing, peptide identification, and quantification with PyOpenMS.
+Educational Jupyter notebook repository for the EuBIC (European Bioinformatics Community) 2026 Winter School. Teaches proteomics data analysis workflows using mass spectrometry data processing, peptide identification, and quantification with PyOpenMS.
 
 ## Commands
 
