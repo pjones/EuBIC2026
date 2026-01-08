@@ -66,6 +66,17 @@ EuBIC2026/
 └── requirements.txt                      # Python dependencies
 ```
 
+## Data Files
+
+| File | Size | Description | Used by |
+|------|------|-------------|---------|
+| `UPS1_5min.mzML` | 36 MB | 5-minute RT subset of UPS1 spike-in LC-MS data | Task 1, Task 2 |
+| `two_ups_proteins.fasta` | 1 KB | 2 UPS1 proteins (Albumin, Carbonic Anhydrase) | Task 1, Task 2 |
+| `BSA1.mzML` | 14 MB | BSA (Bovine Serum Albumin) LC-MS data | Task 3 |
+| `BSA1_F1.idXML` | 14 KB | Peptide identifications for BSA1.mzML | Task 3 |
+
+Data files are automatically downloaded when running the notebooks.
+
 ## Usage
 
 1. Navigate to the `notebooks/` directory
